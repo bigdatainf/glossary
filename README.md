@@ -13,6 +13,7 @@
 - Jorge de la Rosa
 - Ruben Fernandez
 - Marcos Herraez
+- Noa Chu Artzt
 
 
 ## I
