@@ -1,5 +1,3 @@
-
-=======
 # glossary
 
 ## Authors:
