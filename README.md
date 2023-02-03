@@ -1,7 +1,8 @@
 # glossary
 
 ## Authors:
-
+- Carlos Badenes
+- Ana Madrid
 - Carlos Badenes
 - Che Cui
 - Marcos Cedenilla
