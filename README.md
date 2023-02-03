@@ -1,1 +1,4 @@
 # glossary
+
+## Authors:
+- Carlos Badenes
