@@ -1,1 +1,5 @@
 # glossary
+
+## Authors:
+
+Junhao
