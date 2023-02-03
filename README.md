@@ -12,6 +12,7 @@
 - Alejandro Gomez
 - Jorge de la Rosa
 - Ruben Fernandez
+- Pablo Alonso
 - Marcos Herraez
 - Noa Chu Artzt
 
