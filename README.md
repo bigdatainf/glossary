@@ -19,4 +19,6 @@
 
 ## I
 - **Infrastructure**: A set of processing, storage, networks, and other fundamental computing resources used to deploy and run arbitrary software, which can include operating systems and applications 
+
+## P
 - **Platform**:  A set of libraries, services and tools used to deploy applications created using programming languages
