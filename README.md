@@ -1,7 +1,6 @@
 # glossary
 
 ## Authors:
-
 - Carlos Badenes
 - Ana Madrid
 - Che Cui
@@ -28,7 +27,6 @@
 - **Hybrid Cloud**: It´s a *cloud inftastructure* (see the **C** appendix) composed of two or more distinct cloud infrastructures that remain unique entities, but are bound together by estandardized or proprietary technology that enables data and application portability (e.g. load balancing between clouds).
 
 ## I
-
 - **Infrastructure**: A set of processing, storage, networks, and other fundamental computing resources used to deploy and run arbitrary software, which can include operating systems and applications.
 
 - **Information Technology (IT) Software**: A set of instructions, data, or programs used to operate computers and execute specific tasks.
@@ -45,4 +43,3 @@
 
 ## V
 - **Virtualization**: It connects physical servers maintained by a service provider at any or many geographical locations.
-
