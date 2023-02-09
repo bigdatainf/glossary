@@ -44,4 +44,4 @@
 
 ## V
 - **Virtualization**: It connects physical servers maintained by a service provider at any or many geographical locations.
-
+q
