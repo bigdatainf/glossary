@@ -42,6 +42,10 @@
 
 - **Data Mart**: a structure / access pattern specific to data warehouse environments, used to retrieve client-facing data.
 
+## E
+
+- **Exabytes**:  approximately 1000 petabytes or 1 billion gigabytes. 
+
 ## H
 - **Hybrid Cloud**: It´s a *cloud inftastructure* (see the **C** appendix) composed of two or more distinct cloud infrastructures that remain unique entities, but are bound together by estandardized or proprietary technology that enables data and application portability (e.g. load balancing between clouds).
 
