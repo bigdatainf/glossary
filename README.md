@@ -74,6 +74,7 @@
 ## S
 - **Structured data**: Organized data so it's information can be automatically extracted, eg: CSV format, etc.
 
+- **Service Oriented Architecture (SOA)**: reusable components that implement specific groups of functionalities accessible by strictly defined application programming interfaces (APIs).
 
 ## U
 - **Unstructured data**: Unorganized data in a way that information can not be automatically extracted, eg: text document, photos, etc.
