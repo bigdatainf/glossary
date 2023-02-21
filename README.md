@@ -34,6 +34,14 @@
 
 - **Community Cloud**: It´s a *cloud inftastructure* (see the **C** appendix) provisioned for exclusive use by a specific community of consumers from organizations that have shared concerns (e.g., mission, security requirements, policy, and compliance considerations). It may be owned, managed, and operated by one or more of the organizations in the community, a third party, or some combination of them, and it may exist on or off premises. 
 
+## D
+
+- **Database-as-a-Service**: a database hosted in the cloud on a pay per use basis (e.g. Amazon DynamoDB).
+
+- **Data Ecosystem**: a collection of infrastructure, analytics, and applications used to capture and analyze data.
+
+- **Data Mart**: a structure / access pattern specific to data warehouse environments, used to retrieve client-facing data.
+
 ## H
 - **Hybrid Cloud**: It´s a *cloud inftastructure* (see the **C** appendix) composed of two or more distinct cloud infrastructures that remain unique entities, but are bound together by estandardized or proprietary technology that enables data and application portability (e.g. load balancing between clouds).
 
