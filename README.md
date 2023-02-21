@@ -17,15 +17,22 @@
 - Marcos Herraez
 - Noa Chu Artzt
 
+## A
+- **Analytics**: discovery of insights in data
+
+- **Application**: computer software that enables a computer to perform a certain task
+
+- **Artificial Intelligence**: developing intelligence machines and software that are capable of perceiving the environment and take corresponding action when required and even learn from those actions.
+
+
 ## B
-- **Big Data**: a massive volume of both structured and unstructured (see the **S** and **U** appendix) data that is so large that it´s difficult to process using traditional methods (software and database). Big data is related to Volume, Variety and Valocity of data (the 3 V's) which you can add 2 more: Value and Veracity ( **the 5 V's of Big Data**).
+- **Big Data**: a massive volume of both structured and unstructured (see the **S** and **U** appendix) data that is so large that it´s difficult to process using traditional methods (software and database). Big data is related to Volume, Variety and Velocity of data (the 3 V's) which you can add 2 more: Value and Veracity ( **the 5 V's of Big Data**).
 
 
 ## C
 - **Cloud Infrastructure**: Similar to the *local/traditional* infrastructure (see the **L** appendix) but users can access to it via internet, so you can use computing resources without installing on-premises through *virtualization* (see the **V** appendix). Cloud Infrastructure divides and abstracts resources to make them accesible to users via online (for instance: storage). It´s usually refers as *public cloud* (see the **P** appendix).
 
 - **Community Cloud**: It´s a *cloud inftastructure* (see the **C** appendix) provisioned for exclusive use by a specific community of consumers from organizations that have shared concerns (e.g., mission, security requirements, policy, and compliance considerations). It may be owned, managed, and operated by one or more of the organizations in the community, a third party, or some combination of them, and it may exist on or off premises. 
-
 
 ## H
 - **Hybrid Cloud**: It´s a *cloud inftastructure* (see the **C** appendix) composed of two or more distinct cloud infrastructures that remain unique entities, but are bound together by estandardized or proprietary technology that enables data and application portability (e.g. load balancing between clouds).
