@@ -44,6 +44,8 @@
 
 ## E
 
+- **Edge Computing**: is a distributed computing paradigm that brings computation and data storage closer to the sources of data. This is expected to improve response times and save bandwidth
+
 - **Exabytes**:  approximately 1000 petabytes or 1 billion gigabytes. 
 
 ## H
