@@ -72,9 +72,19 @@
 
 
 ## S
-- **Structured data**: Organized data so it's information can be automatically extracted, eg: CSV format, etc.
+
+- **Semi-structured Data**: a form a structured data that does not have a formal structure like structured data. It does however have tags or other markers to enforce hierarchy of records.
+
+- **Sentiment Analysis**: use of algorithms to find out how people feel about certain topics.
 
 - **Service Oriented Architecture (SOA)**: reusable components that implement specific groups of functionalities accessible by strictly defined application programming interfaces (APIs).
+
+- **Software-as-a-Service**: a software tool that is used of the web via a browser.
+
+- **Structured Data**: Organized data so it's information can be automatically extracted, eg: CSV format, etc.
+
+- **Synchronization (data)**: the process of establishing consistency among data from a source to a target data storage and vice versa and the continuous harmonization of the data over time.
+
 
 ## U
 - **Unstructured data**: Unorganized data in a way that information can not be automatically extracted, eg: text document, photos, etc.
