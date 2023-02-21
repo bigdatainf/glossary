@@ -55,6 +55,7 @@
 
 - **Information Technology (IT) Software**: A set of instructions, data, or programs used to operate computers and execute specific tasks.
 
+- **Internet-of-things (IoT)**: ordinary devices that are connected to the internet at any time any where via sensors.
 
 ## L
 - **Local Infrastructure**: Also knonwn as Traditional Infrastructure. It´s composed of HW and SW components such as facilities, servers, networking hardware, ... However it requieres more power, physical space and money than other infrastructure types. The main use is on-premise or private.
