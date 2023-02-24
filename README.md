@@ -16,6 +16,7 @@
 - Pablo Alonso
 - Marcos Herraez
 - Noa Chu Artzt
+- Matias Mussini
 
 ## A
 - **Analytics**: discovery of insights in data
