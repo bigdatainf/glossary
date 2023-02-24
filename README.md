@@ -17,6 +17,7 @@
 - Marcos Herraez
 - Noa Chu Artzt
 - Matias Mussini
+- Antonio Reviejo
 
 ## A
 - **Analytics**: discovery of insights in data
